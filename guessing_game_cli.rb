@@ -10,5 +10,5 @@ def run_guessing_game
   elsif user_numb == 'exit'
     puts "Goodbye!"
   end
-  
+
 end

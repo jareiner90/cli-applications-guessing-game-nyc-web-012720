@@ -11,6 +11,8 @@ def run_guessing_game
   else
     user_numb = user_numb.to_i
     if user_numb == comp_numb
-      puts 
+      puts "You guessed the correct number!"
+    else
+      puts ""
 
 end
